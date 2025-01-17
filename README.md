@@ -1,10 +1,10 @@
 # 👋 Olá, eu sou Marcelo Augusto
 
-**Desenvolvedor Sênior em Python | Especialista em Kubernetes | DevOps**
+**Profissional de DevOps apaixonado por automação, infraestrutura em nuvem e soluções escaláveis**
 
-Bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetos que refletem minha paixão por automação, infraestrutura como código e soluções escaláveis na nuvem.
+Bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetos que refletem minha experiência prática em DevOps e meu entusiasmo por aprender e compartilhar conhecimento.
 
-- 🌟 Sempre aprendendo e compartilhando conhecimento.
+- 🌟 Sempre em busca de desafios e inovação.
 - 📍 São Caetano do Sul, Brasil.
 
 ---
@@ -21,28 +21,28 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetos que refletem 
 ## 🚀 Projetos Destacados
 
 ### **1. Infraestrutura Elástica na AWS**
-- **Descrição**: Projeto que demonstra a configuração de uma infraestrutura elástica na AWS utilizando Terraform e Ansible. Inclui criação de máquinas EC2 com escalabilidade automática, balanceador de carga (ALB) e configuração de redes seguras (VPC).
+- **Descrição**: Configuração de uma infraestrutura elástica na AWS utilizando Terraform e Ansible. O projeto inclui criação de máquinas EC2 com escalabilidade automática, balanceador de carga (ALB) e redes seguras (VPC).
 - **Repositório**: [Infraestrutura Elástica na AWS](https://github.com/Marcelo-Augusto-Silva/infraestrutura-elastica-aws)
 - **Tecnologias**: AWS, Terraform, Ansible.
 
 ---
 
 ### **2. Anotações para o AZ-900**
-- **Descrição**: Repositório com anotações detalhadas para a certificação AZ-900 (Microsoft Azure Fundamentals), contendo tópicos essenciais sobre conceitos de nuvem, segurança e principais serviços da Azure.
+- **Descrição**: Repositório com anotações detalhadas para a certificação AZ-900 (Microsoft Azure Fundamentals), abordando conceitos de nuvem, segurança e principais serviços da Azure.
 - **Repositório**: [Anotações para AZ-900](https://github.com/Marcelo-Augusto-Silva/anotacoes-az900)
 - **Tecnologias**: Azure, Markdown.
 
 ---
 
 ### **3. Subindo API Alura com IaC**
-- **Descrição**: Projeto que demonstra o deploy de uma API desenvolvida pela Alura utilizando Terraform e Ansible. A aplicação foi configurada para rodar na AWS, com toda a infraestrutura sendo gerenciada como código.
+- **Descrição**: Projeto que demonstra o deploy de uma API desenvolvida pela Alura utilizando Terraform e Ansible. Toda a infraestrutura foi gerenciada como código na AWS.
 - **Repositório**: [Subindo API Alura com IaC](https://github.com/Marcelo-Augusto-Silva/subindo-api-alura)
 - **Tecnologias**: Terraform, Ansible, AWS.
 
 ---
 
 ### **4. Anotações do Curso de Docker**
-- **Descrição**: Repositório contendo anotações detalhadas e exemplos práticos do curso de Docker, demonstrando compreensão de containers e sua aplicação em ambientes de desenvolvimento e produção.
+- **Descrição**: Repositório contendo anotações detalhadas e exemplos práticos do curso de Docker, evidenciando compreensão de containers e sua aplicação em ambientes de desenvolvimento e produção.
 - **Repositório**: [Anotações Curso de Docker](https://github.com/Marcelo-Augusto-Silva/Anotacoes-curso-de-docker)
 - **Tecnologias**: Docker.
 
@@ -62,4 +62,4 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetos que refletem 
 
 ---
 
-💡 **Dica**: Mantenha sempre seus projetos atualizados e continue explorando novas tecnologias. Estou disponível para colaborar em projetos ou compartilhar conhecimento!
+💡 **Dica**: Sinta-se à vontade para explorar meus repositórios e entrar em contato! Estou sempre aberto a colaborar em projetos e compartilhar conhecimentos na área de DevOps.
